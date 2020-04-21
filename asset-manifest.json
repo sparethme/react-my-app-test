@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sparethme/react-my-app-test.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sparethme/react-my-app-test.git/static/js/main.5b1abdd4.chunk.js",
+    "main.js.map": "/sparethme/react-my-app-test.git/static/js/main.5b1abdd4.chunk.js.map",
+    "runtime-main.js": "/sparethme/react-my-app-test.git/static/js/runtime-main.a054caa1.js",
+    "runtime-main.js.map": "/sparethme/react-my-app-test.git/static/js/runtime-main.a054caa1.js.map",
+    "static/js/2.07a05dc4.chunk.js": "/sparethme/react-my-app-test.git/static/js/2.07a05dc4.chunk.js",
+    "static/js/2.07a05dc4.chunk.js.map": "/sparethme/react-my-app-test.git/static/js/2.07a05dc4.chunk.js.map",
+    "index.html": "/sparethme/react-my-app-test.git/index.html",
+    "precache-manifest.a866421c98eef685fff434ed204e9579.js": "/sparethme/react-my-app-test.git/precache-manifest.a866421c98eef685fff434ed204e9579.js",
+    "service-worker.js": "/sparethme/react-my-app-test.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sparethme/react-my-app-test.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/sparethme/react-my-app-test.git/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sparethme/react-my-app-test.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a054caa1.js",
+    "static/js/2.07a05dc4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5b1abdd4.chunk.js"
+  ]
+}
